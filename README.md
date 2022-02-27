@@ -1,6 +1,6 @@
 # Week6-CandleShopTask
 
-Task for week 6
+Task for week 6:
 
 * create a folder with the name CandleShopLanding;
 * create a new file index.html inside of the folder, copy and paste the html code into the file;
